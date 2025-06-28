@@ -4,6 +4,7 @@ import logo from '../../../assets/logo.svg'
 import sun from '../../../assets/icon-sun.svg'
 const header = () => {
   return (
+
 <div className='maincon'>
  <div className='subcon'>
         <div className='logo-icon'>
@@ -13,10 +14,11 @@ const header = () => {
         <div className='theme-icon'> 
            <img src={sun} alt="sun-logo"/>
         </div>
-        
     </div>
-</div>
+
     
+    
+</div>    
    
   )
 }

@@ -1,11 +1,13 @@
 .maincon{
+    height: 12vh;
     display: flex;
     justify-content: center;
+    background-color:  white;
     
 }
 
-
 .subcon{
+    border: 1px solid red;
     border-radius: 8px;
     margin-top: 20px;
     width: 90%;
@@ -45,3 +47,11 @@ img{
 
 
 }
+
+.navbar{
+    display: flex;
+    align-items: flex-end;
+    
+    
+}
+/* hsl(227, 75%, 14%);
