@@ -1,0 +1,47 @@
+.maincon{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.subcon{
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 90%;
+    height: 7vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(226, 11%, 37%);
+}
+
+.logo-icon{
+    border-radius: 8px;
+width: 100px;
+height: 40px;
+margin-left: 10px;
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+}
+
+.theme-icon{
+border-radius: 8px;
+width: 35px;
+height: 30px;
+margin-right: 10px;
+background-color: hsl(225, 23%, 24%);
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+}
